@@ -166,4 +166,4 @@ streamlit run app.py
 
 Saumya Verma
 B.Tech CSE (AI/ML)
-Focused on building AI-powered real-world applications
+\Focused on building AI-powered real-world applications
