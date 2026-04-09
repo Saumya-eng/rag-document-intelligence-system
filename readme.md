@@ -165,5 +165,5 @@ streamlit run app.py
 ## Author
 
 Saumya Verma
-B.Tech CSE (AI/ML)
-\Focused on building AI-powered real-world applications
+B.Tech CSE (AI/ML)   
+Focused on building AI-powered real-world applications
